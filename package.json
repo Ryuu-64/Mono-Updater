@@ -1,8 +1,8 @@
 {
   "name": "com.ryuu.mono-updater",
   "license": "MIT",
-  "version": "0.1.2",
-  "displayName": "MonoUpdater",
+  "version": "0.1.3",
+  "displayName": "Mono Updater",
   "unity": "2021.2",
   "documentationUrl": "https://github.com/Ryuu-64/Mono-Updater",
   "changelogUrl": "https://github.com/Ryuu-64/Mono-Updater",
